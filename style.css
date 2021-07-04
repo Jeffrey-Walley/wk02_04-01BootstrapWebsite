@@ -1,0 +1,21 @@
+#content {
+    width: 600px;
+    background: red;
+}
+
+span {
+    background: blue;
+}
+
+.container-fluid {
+    font-family: 'Cormorant SC', serif;
+    text-align: center;
+    text-weight: bold;
+}
+
+#gt_embed_0j9j91nu {
+    display: block;
+    margin: 0 auto;
+}
+
+footer {}
